@@ -8,4 +8,4 @@ reg price mpg
 
 histogram price
 
-des auto
+
