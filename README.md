@@ -10,3 +10,5 @@ The blood-dimmed tide is loosed, and everywhere
 The ceremony of innocence is drowned;
 
 I forgot line 7 of the poem
+
+I forgot line 8
