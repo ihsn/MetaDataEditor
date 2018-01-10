@@ -6,6 +6,6 @@ sysuse auto
 
 reg price mpg
 
-histogram price
+here is a change that is not good - see if we can come back to half way stay- "staging area" in git lingo
 
 
