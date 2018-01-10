@@ -7,3 +7,5 @@ sysuse auto
 reg price mpg
 
 histogram price
+
+des auto
