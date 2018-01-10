@@ -19,6 +19,7 @@ The best lack all conviction, while the worst
 Are full of passionate intensity.
 
 
+
 Surely some revelation is at hand;
 
 Surely the Second Coming is at hand.
@@ -36,6 +37,7 @@ A gaze blank and pitiless as the sun,
 Is moving its slow thighs, while all about it
 
 Wind shadows of the indignant desert birds.
+
 
 
 The darkness drops again but now I know
