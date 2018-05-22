@@ -3,7 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+<<<<<<< HEAD
+Welcome to Readthedocs's documentation  - Setting Up the file - Now it should work!
+=======
 Welcome to Readthedocs's documentation  - Setting Up the file!
+>>>>>>> 9cbd3dbad95949bfa542972b8959b49f6e5f4393
 =======================================
 
 .. toctree::
