@@ -4,11 +4,7 @@
    contain the root `toctree` directive.
 
 <<<<<<< HEAD
-Welcome to Readthedocs's documentation  - Setting Up the file - Now it should work!
-=======
-Welcome to Readthedocs's documentation  - Setting Up the file!
->>>>>>> 9cbd3dbad95949bfa542972b8959b49f6e5f4393
-=======================================
+
 
 .. toctree::
    :maxdepth: 2
@@ -19,6 +15,5 @@ Welcome to Readthedocs's documentation  - Setting Up the file!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`am`
+
